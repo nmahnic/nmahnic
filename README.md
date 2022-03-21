@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤳 I'm an advence electronic engineering student.
+- 🤳 I'm an electronic engineer.
 
 - 🕺 I have experience as a computer science teacher and an electronic design teacher in secondary school.
 Recently I start to work as an Android Developer specialiced at ISO8583, a financial transactions protocol.
